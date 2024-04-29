@@ -1,0 +1,3 @@
+# Bank Management Api
+### This project has been designed to mimic  the normal banking operation such has bank transfers, credit and debit functionalities , account creation , account Number generation , and an added Multiple Transfer functionalities which allows a single user to transfer a certain amount to two or more users at the same time.
+### during the course of this project , we have been able to grab some more beautiful java patterns such as the dto(Data Transfer Object), Dependency Injection and even fully understand AOP(Aspect Oriented Programming ) which allows me to focus on an aspect of my project which made it easier to add the new Multiple Transfer functionality
